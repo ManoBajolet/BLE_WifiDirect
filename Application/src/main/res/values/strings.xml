@@ -18,7 +18,7 @@
     <string name="label_data">Donnée :</string>
     <string name="label_device_address">Adresse du dispositf:</string>
     <string name="label_state">Etat:</string>
-    <string name="no_data">Pas de donnée</string>
+    <string name="no_data">Pas de données</string>
     <string name="connected">Connecté</string>
     <string name="disconnected">Déconnectée</string>
     <string name="title_devices">Recherche</string>
