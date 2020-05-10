@@ -1403,7 +1403,6 @@ id auto
 id beginning
 id blocking
 id bottom
-id button
 id buttonPanel
 id cancel_action
 id cancel_button
