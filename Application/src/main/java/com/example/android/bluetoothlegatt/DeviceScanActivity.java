@@ -110,6 +110,9 @@ public class DeviceScanActivity extends ListActivity {
             case R.id.menu_stop:
                 scanLeDevice(false);
                 break;
+            case R.id.menu_save:
+                mLeDeviceListAdapter.getList();
+                break;
         }
         return true;
     }
@@ -221,6 +224,13 @@ public class DeviceScanActivity extends ListActivity {
         @Override
         public long getItemId(int i) {
             return i;
+        }
+
+        public void getList() {
+            for(int j = 0; j < mLeDevices.size(); j++) {
+                System.out.println(mLeDevices.get(j).getName());
+                System.out.println(mLeDevices.get(j).getAddress());
+            }
         }
 
         @Override

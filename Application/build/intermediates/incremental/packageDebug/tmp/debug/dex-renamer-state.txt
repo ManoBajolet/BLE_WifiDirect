@@ -1,4 +1,4 @@
-#Sun May 10 13:05:47 CEST 2020
+#Sun May 10 21:19:33 CEST 2020
 base.0=D\:\\Fichier_\\Fichiers\\BluetoothLeGatt\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

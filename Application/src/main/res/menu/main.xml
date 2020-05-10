@@ -27,7 +27,7 @@
           android:orderInCategory="101"
           android:showAsAction="ifRoom|withText"/>
     <item android:id="@+id/menu_save"
-        android:title="@string/menu_save"
-        android:orderInCategory="200"
-        android:showAsAction="ifRoom|withText"/>
+          android:title="@string/menu_save"
+          android:orderInCategory="200"
+          android:showAsAction="ifRoom|withText"/>
 </menu>
